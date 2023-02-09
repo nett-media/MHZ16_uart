@@ -14,7 +14,7 @@ License: MIT
 
 ### Motivation
 
-i had runtime warnings because Serial Interface is created at every reading (HardwareSerial hserial(_serialno);`) and some possible overlapping callbacks..
+i had runtime warnings because Serial Interface is created at every reading (`HardwareSerial hserial(_serialno);`) and some possible overlapping callbacks..
 Thats why i hacked this quick and dirty version..
 
 ## Usage
